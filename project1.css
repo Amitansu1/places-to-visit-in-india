@@ -1,0 +1,42 @@
+#container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 700px;
+    height: 1200px;
+}
+#one{
+    width: 300px;
+    height: 450px;
+    border: 2px solid rgb(108, 108, 167);
+}
+#two{
+    width: 300px;
+    height: 450px;
+    border: 2px solid rgb(108, 108, 167);
+}
+#three{
+    width: 300px;
+    height: 450px;
+    border: 2px solid rgb(108, 108, 167);
+}
+#four{
+    width: 320px;
+    height: 530px;
+    border: 2px solid rgb(108, 108, 167);
+}
+h1{
+    color: white;
+    background-color: #cc0c39;
+    width: 600px;
+}h1{
+    color: white;
+    background-color: #cc0c39;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+button{
+    background-color: rgb(79, 96, 218);
+    color: aliceblue;
+}
